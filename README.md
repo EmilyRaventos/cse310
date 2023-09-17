@@ -2,7 +2,7 @@
 
 This is a basic Hello World! program. It simply displays the traditional "Hello World!" text. I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together.
 
-I've created a demo of this program that you can view here. [Hello World Demo Video](https://share.vidyard.com/watch/Xm5DtJy53mzptbKWt63Fvw?)
+I've created a demo of this program that you can view here. [Hello World Demo Video](https://share.vidyard.com/watch/fd7aNqaXDXaZqTJzK8qMmL?)
 
 # Development Environment
 
